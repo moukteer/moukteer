@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**moukteer/moukteer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Cyber Security Analyst ...
+- 🌱 I’m currently learning Bug Bounty ...
+- 👯 I’m looking to collaborate on Cyber Secured India (Feathers CSI Foundation...
+- 🤔 I’m looking for help with advancing skills on Ethical Hacking ...
+- 💬 Ask me about security control...
+- 📫 How to reach me: moukteer@gmail.com, +2347038316718
+- 😄 Pronouns: /ˌsaɪ.bɚ.səˈkjʊr.ə.t̬i/
+- ⚡ Fun fact: The number of IoT (Internet of Things) devices connected to the internet will grow to 14 billion by the end of 2023, on a year-on-year basis of about 18 per cent growth. And the number of vulnerabilities for these devices grew by about 16 per cent in 2023.  
+-->
